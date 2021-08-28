@@ -11,9 +11,9 @@ export default function Home() {
       </Head>
 
       <main className="flex flex-col min-h-screen">
-        <div className="flex flex-grow px-20">
+        <div className="flex flex-grow px-10 md:px-20">
           <div className="w-full my-auto text-center">
-            <h1 className="text-blue-700 text-6xl md:text-8xl font-bold pb-8">
+            <h1 className="text-blue-700 text-4xl sm:text-6xl md:text-8xl font-bold pb-8">
               Eigozilla.org
             </h1>
             <p className="text-gray-400 text-xl md:text-3xl font-light pb-20">
